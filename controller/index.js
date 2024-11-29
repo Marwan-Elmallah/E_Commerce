@@ -1,0 +1,5 @@
+exports.CategoryController = require("./category")
+exports.SubCategoryController = require("./subCategory")
+exports.BrandController = require("./brand")
+exports.ProductController = require("./product")
+exports.UserController = require("./user")
